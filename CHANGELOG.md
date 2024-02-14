@@ -6,6 +6,12 @@
 
 ## [Unreleased]
 
+### Features
+
+- Placeholder for creating sch. task in install script
+
+## [0.0.1] - 2024-02-14
+
 ### Documentation
 
 - Release notes for v0.0.1
