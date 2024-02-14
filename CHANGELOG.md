@@ -8,6 +8,7 @@
 
 ### Features
 
+- Instatiate next release build
 - Placeholder for creating sch. task in install script
 
 ## [0.0.1] - 2024-02-14
