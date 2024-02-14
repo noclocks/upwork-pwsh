@@ -18,6 +18,7 @@
 
 ### Refactoring
 
+- Remove placeholder GHA workflows
 - Cleanup demo script
 
 ***
