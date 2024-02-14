@@ -26,3 +26,6 @@ if (Test-Path -Path "$ShortcutDir\StartupAutomation.lnk") {
 $Shortcut = $WshShell.CreateShortcut("$ShortcutDir\StartupAutomation.lnk")
 $Shortcut.TargetPath = 'C:\StartupAutomation\StartupAutomation.cmd'
 $Shortcut.Save()
+
+# TODO: Import / Create Scheduled Task
+# New-ScheduledTask -Action "C:\StartupAutomation\StartupAutomation.cmd"
