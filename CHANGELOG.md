@@ -11,6 +11,10 @@
 - Instatiate next release build
 - Placeholder for creating sch. task in install script
 
+### Refactoring
+
+- Add missing "v" prefix to build
+
 ## [0.0.1] - 2024-02-14
 
 ### Documentation
